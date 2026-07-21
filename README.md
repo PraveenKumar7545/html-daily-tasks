@@ -1,25 +1,18 @@
-# HTML Daily Task 01
+# HTML Daily Tasks
 
-## 📖 Description
-Created a simple HTML webpage named **Praveen Project Hub** using only HTML.
+This repository contains my daily HTML practice tasks.
 
-## 🛠️ HTML Tags Used
-- Headings (h1-h3)
-- Paragraph
-- hr
-- br
-- b
-- strong
-- i
-- em
-- mark
-- sub
-- sup
-- del
-- ins
-- u
+## Tasks
 
-## 📸 Output
+- ✅ Day 01 - Project Hub Webpage
+- ⏳ Day 02
+- ⏳ Day 03
+- ⏳ Day 04
+- ⏳ Day 05
+- ⏳ Day 06
+- ⏳ Day 07
+- ⏳ Day 08
 
-<img width="1912" height="880" alt="Output_ScreenShot_1" src="https://github.com/user-attachments/assets/8ad75451-6f98-4d31-bd6b-afbaf43d9dc1" />
-<img width="1912" height="541" alt="Output_ScreenShot_2" src="https://github.com/user-attachments/assets/e4c2c0e6-1dd1-4e51-9078-397bcd907c70" />
+## Technologies
+
+- HTML5
