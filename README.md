@@ -5,7 +5,7 @@ This repository contains my daily HTML practice tasks.
 ## Tasks
 
 - ✅ Day 01 - Project Hub Webpage
-- ⏳ Day 02
+- ✅ Day 02
 - ⏳ Day 03
 - ⏳ Day 04
 - ⏳ Day 05
