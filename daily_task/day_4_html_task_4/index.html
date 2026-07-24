@@ -1,0 +1,108 @@
+<html>
+<head>
+    <title>Fund Transfer</title>
+			
+</head>
+
+<body>
+
+<h2 class="heading"><center>SBI - NEFT Transfer Charges</center></h2>
+<hr>
+
+<form>
+
+<p>Select Account:</p>
+
+<table border="3">
+	
+	<tr>
+		<th>Select</th>
+		<th>Account No</th>
+		<th>Type</th>
+		<th>Branch</th>
+		<th>Balance</th>
+	</tr>
+	<tr>
+		<td><input type="radio" name="account"></td>
+		<td>1234567897XXXX</td>
+		<td>Savings</td>
+		<td>Sattur</td>
+		<td>3024</td>
+	</tr>
+	
+</table>
+<br>
+
+<label>Amount:</label><br>
+	<input type="text",id="amount",name="amount"><br><br>
+
+<label>Purpose:</label><br>
+	<select>
+		<option>Personal</option>
+		<option>Business</option>
+	</select>
+
+<br><br>
+    
+<p>Select Beneficiary:</p>
+
+<table border="3">
+<tr>
+    <th>Select</th>
+    <th>Account No</th>
+    <th>Intra bank Beneficiary Name</th>
+    <th>Branch</th>
+	<th>Limit</th>
+</tr>
+
+<tr>
+    <td><input type="radio",id="beneficiary", name="beneficiary"></td>
+    <td>9876543210XXXX</td>
+    <td>Praveen Kumar M</td>
+    <td>Madurai</td>
+	<td>100000</td>
+</tr>
+
+<tr>
+    <td><input type="radio",id="beneficiary", name="beneficiary"></td>
+    <td>9361797545XXXX</td>
+    <td>Ranjan</td>
+    <td>Kanpur</td>
+	<td>250000</td>
+</tr>
+
+<tr>
+    <td><input type="radio",id="beneficiary", name="beneficiary"></td>
+    <td>258963147XXXX</td>
+    <td>Kathir</td>
+    <td>Delhi</td>
+	<td>60000</td>
+</tr>
+
+<tr>
+    <td><input type="radio",id="beneficiary", name="beneficiary"></td>
+    <td>624835179XXXX</td>
+    <td>Siva Suriya </td>
+    <td>Nepal</td>
+	<td>750000</td>
+</tr>
+
+</table>
+
+<br>
+<p>Select Payment Option:</p>
+<label>Payment Option:</label><br>
+
+	<input type="radio" name="payment"> Pay Now
+	<input type="radio" name="payment"> Schedule Later
+	<input type="radio" name="payment"> Standing Instruction
+	<br><br>
+
+	<input  type="submit" value="Submit">
+	<input  type="reset" value="Cancel">
+
+
+</form>
+
+</body>
+</html>
