@@ -8,7 +8,7 @@ This repository contains my daily HTML practice tasks and learning progress.
 * ✅ Day 02 - Multimedia Project Hub
 * ✅ Day 03 - College Application Form
 * ✅ Day 04 - SBI Fund Transfer Form
-* ⏳ Day 05
+* ✅ Day 05 - Credit Card Payment Form
 * ⏳ Day 06
 * ⏳ Day 07
 * ⏳ Day 08
