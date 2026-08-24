@@ -3,7 +3,7 @@
 This repository contains my daily HTML practice tasks and learning progress. 
 
 ## 📚 Tasks
-
+ 
 * ✅ Day 01 - Project Hub Webpage 
 * ✅ Day 02 - Multimedia Project Hub       
 * ✅ Day 03 - College Application Form
