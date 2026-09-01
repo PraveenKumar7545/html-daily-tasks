@@ -1,6 +1,6 @@
 # HTML Daily Tasks
 
-This repository contains my daily HTML practice tasks and learning progress. 
+This repository contains my daily HTML practice tasks and learning progress.     
 
 ## 📚 Tasks
  
